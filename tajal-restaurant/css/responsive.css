@@ -1,0 +1,19 @@
+/* 
+This file contains styles for making the website responsive, adapting to different screen sizes. 
+*/
+
+@media (max-width: 1200px) {
+    /* Styles for large screens */
+}
+
+@media (max-width: 992px) {
+    /* Styles for medium screens */
+}
+
+@media (max-width: 768px) {
+    /* Styles for small screens */
+}
+
+@media (max-width: 576px) {
+    /* Styles for extra small screens */
+}
